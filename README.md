@@ -51,7 +51,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/104354484?v=4"  />
+<img align="right" height="150" src="https://i.giphy.com/media/VTtANKl0beDFQRLDTh/200w.webp"  />
 
 ###
 
