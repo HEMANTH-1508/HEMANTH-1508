@@ -56,7 +56,7 @@
 ###
 
 <div align="center">
-  <a href="hemanthkonathala2004@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=hemanthkonathala2004@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="61" alt="gmail logo"  />
   </a>
   <a href="https://instagram.com/hemanth_1508?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D" target="_blank">
