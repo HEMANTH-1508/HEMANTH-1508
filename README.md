@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is HEMANTH K and I'm from VIZAG❤️❤️❤️</h3>
+<h3 align="center">Hi 👋! Myself HEMANTH K and I'm❤️VIZAG</h3>
 
 ###
 
