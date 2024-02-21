@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! Myself HEMANTH K and I'm❤️VIZAG</h3>
+<h3 align="center">Hi 👋! Myself HEMANTH K and I❤️VIZAG</h3>
 ###
 
 <div align="center">
