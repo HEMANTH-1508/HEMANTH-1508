@@ -1,64 +1,131 @@
-<h3 align="center">Hi 👋! Myself HEMANTH K and I❤️VIZAG</h3>
+# 👋 Hi, I'm Hemanth Konathala  
 
-###
+<h3 align="center">🚀 iOS Developer | SwiftUI Enthusiast | ❤️ Vizag</h3>
+
+---
+
+## 🌟 About Me
+
+- 🌱 Currently learning **SwiftUI & Advanced iOS Development**
+- 👨‍💻 Building real-world apps and scalable backend systems  
+- 🤝 Open to collaborations on **innovative projects**  
+- 🎯 Focused on becoming a **professional software engineer**  
+- ⚡ Fun fact: *Coffee + Code + Consistency = Growth*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hemanth-k-835b47266" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.kaggle.com/hemanth1508" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/solo._.sovereign" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <!-- Gmail -->
+  <a href="mailto:hemanthkonathala2004@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <!-- Phone -->
+  <a href="tel:+918341877218">
+    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" height="40" />
+  </a>
+</p>
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="44" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="44" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="44" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="44" alt="blender logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="44" />
   <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="44" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="44" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="44" alt="linux logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="mysql logo"  />
-  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="44" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.giphy.com/media/VTtANKl0beDFQRLDTh/200w.webp"  />
+## 📊 GitHub Stats
 
-###
-
-<p>
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=HEMANTH-1508&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" 
-       alt="HEMANTH-1508" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemanth-1508&show_icons=true&theme=tokyonight" />
 </p>
-###
 
-<br clear="both">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanth-1508&layout=compact&theme=tokyonight" />
+</p>
 
-<img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth-1508&theme=tokyonight" />
+</p>
 
-###
+---
 
-<p align="left">"👨‍💻 Coding my way through life's challenges | 🌟 Exploring the art of programming | ☕ Coffee-fueled developer | 📚 Lifelong learner | 🎧 Beats and bugs | Let's collaborate and code cool things! 🚀"</p>
+## 🚀 What I'm Focused On
 
-###
+- 📱 iOS App Development (SwiftUI)  
+- 🧠 KPI Dashboard Systems  
+- 🔗 Backend APIs & System Design  
+- 📊 Data Visualization  
 
-<p align="left">"👋 Explorer of the digital realm | ✨ Crafting lines of code with creativity | 🌱 Learning, growing, and coding | 🚀 Turning caffeine into code | 🎮 Gaming when not debugging | Connect with me and let's code together! 🤝"</p>
+---
 
-###
+## 💭 Developer Mindset
 
-<p align="left">"💻 Coding enthusiast on a journey of bytes | 🎨 Creating with lines of logic | 🚴‍♂️ Cycling through algorithms | 📚 Lifelong student of codecraft | 🌌 Exploring galaxies of code possibilities | Let's make ideas come to life through code! 🌟"</p>
+> 👨‍💻 Coding my way through life  
+> ☕ Turning caffeine into code  
+> 📚 Lifelong learner  
+> 🎧 Music + Code = Flow  
+> 🚀 Always building, always improving  
 
-###
+---
 
-<h1 align="center">ABOUT ME</h1>
+## 🧑‍💻 My Journey
 
-###
+Hey! I'm **Hemanth from Visakhapatnam, Andhra Pradesh** 🇮🇳  
 
-<p align="left">"👋 Hey, I'm Hemanth from Visakhapatnam, Andhra Pradesh. 🖥️ My journey with computers began in 8th grade, and ever since, it's been a thrilling ride of discovery. 💡 The world looks different from behind the screen, and I love exploring its depths. 🌌 Coding is my canvas, where ideas turn into reality. ☕ Fuelled by coffee and curiosity, I'm always excited to learn and create. Let's dive into the world of coding together! 🚀"</p>
+My journey with computers started in **8th grade**, and since then it’s been a continuous exploration.  
+I enjoy building things, solving problems, and turning ideas into reality through code.  
 
-###
+For me, coding is not just a skill — it’s a way of thinking.  
+
+---
+
+## 📈 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hemanth-1508&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **hemanthkonathala2004@gmail.com**  
+- 📞 Phone: **8341877218**
+
+---
+
+<div align="center">
+  <h3>🔥 "Consistency beats talent when talent doesn’t work hard" 🔥</h3>
+</div>
