@@ -30,21 +30,11 @@
 
 ###
 
-<div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&to=hemanthkonathala2004@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="61" alt="gmail logo"  />
-  </a>
-  <a href="gaming_with_hemanth" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="85" height="61" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/hemanth-k-835b47266" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="61" alt="linkedin logo"  />
-  </a>
-  <a href="https://telegram.org/dl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="85" height="61" alt="telegram logo"  />
-  </a>
-</div>
-
+<p>
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=HEMANTH-1508&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" 
+       alt="HEMANTH-1508" />
+</p>
 ###
 
 <br clear="both">
