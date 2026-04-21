@@ -81,11 +81,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=HEMANTH-1508&theme=tokyonight&margin-w=15&margin-h=15)
-
----
-
 
 ## 🚀 What I'm Focused On
 
