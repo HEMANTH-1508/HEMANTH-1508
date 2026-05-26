@@ -68,16 +68,49 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanth-1508&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=hemanth-1508&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+  
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hemanth-1508&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
+
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hemanth-1508&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanth-1508&layout=compact&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=hemanth-1508&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth-1508&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hemanth-1508&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
+
+<h2 align="center">⚒️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,go,mongodb,firebase,git,github,vscode,figma,postman,xcode" />
+</p>
+
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth-1508&theme=tokyo-night&hide_border=true" />
+</p>
+
+
+<h2 align="center">💭 Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
 
 ---
 
@@ -109,14 +142,6 @@ My journey with computers started in **8th grade**, and since then it’s been a
 I enjoy building things, solving problems, and turning ideas into reality through code.  
 
 For me, coding is not just a skill — it’s a way of thinking.  
-
----
-
-## 📈 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hemanth-1508&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
