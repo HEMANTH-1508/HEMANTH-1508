@@ -29,17 +29,15 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" />
   </a>&nbsp;&nbsp;&nbsp;
 
-  <!-- Gmail -->
   <a href="mailto:hemanthkonathala2004@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" />
   </a>&nbsp;&nbsp;&nbsp;
 
-  <!-- Phone -->
   <a href="tel:+918341877218">
     <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" height="40" />
   </a>
 </p>
----
+
 
 ## 📊 GitHub Stats
 
