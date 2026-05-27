@@ -61,9 +61,8 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hemanth-1508&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=hemanth-1508&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
-
 
 <h2 align="center">⚒️ Tech Stack</h2>
 
