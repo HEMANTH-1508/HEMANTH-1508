@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Hemanth Konathala  
 
-<h3 align="center">🚀 iOS Developer | SwiftUI Enthusiast | ❤️ Vizag</h3>
+<h3 align="center">🚀 Software Developer | SwiftUI Enthusiast | ❤️ Vizag</h3>
 
 ---
 
 ## 🌟 About Me
 
-- 🌱 Currently learning **SwiftUI & Advanced iOS Development**
+- 🌱 Currently learning **SwiftUI & Advanced Software Development - React and GO**
 - 👨‍💻 Building real-world apps and scalable backend systems  
 - 🤝 Open to collaborations on **innovative projects**  
 - 🎯 Focused on becoming a **professional software engineer**  
