@@ -74,7 +74,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth-1508&theme=tokyo-night&hide_border=true&cache_seconds=1800" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
 
 
